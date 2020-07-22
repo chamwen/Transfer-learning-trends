@@ -1,7 +1,7 @@
 # Trends for transfer learning
 
 - [Trends for transfer learning](#trends-for-transfer-learning)
-  * [New papers in arXiv](#New papers in arXiv)
+  * [New papers in arXiv](#new-papers-in-arXiv)
   * [Excellent Scholars](#excellent-scholars)
   * [New Scholars](#new-scholars)
   * [Other resources](#other-resources)
