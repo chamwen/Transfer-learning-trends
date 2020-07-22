@@ -9,8 +9,8 @@
 
 ## New papers in arXiv
 
-- [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: transfer learning](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract)
+- [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: domain generalization](http://arxitics.com/search?q=domain%20generalization&sort=updated)
 
 
@@ -86,13 +86,13 @@
 |Do Adversarially Robust ImageNet Models Transfer Better?|arXiv 2020|[code](https://github.com/Microsoft/robust-models-transfer)|Many experiments||
 |Visualizing Transfer Learning|arXiv 2020||interesting||
 
-
 ### Year 2019
 
 |  Title   | Conference/journal + year | Code | Keywords |  Benefit for us |
 |  ----  | ----  | ---- | ---- | ---- |
-|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||weakly supervised+DA||
+|Learning classifiers for target domain with limited or no labels ([paper](http://proceedings.mlr.press/v97/zhu19d.html))|ICML 2019|[code](https://github.com/pengkaizhu/LDVA)|zero/few shot learning||
 |SpotTune: Transfer Learning through Adaptive Fine-tuning ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_SpotTune_Transfer_Learning_Through_Adaptive_Fine-Tuning_CVPR_2019_paper.pdf))|CVPR 2019|[code](https://github.com/gyhui14/spottune)||a general method|
-|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN+DA||
+|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||curriculum learning+DA||
 |DANE: Domain Adaptive Network Embedding ([paper](https://www.ijcai.org/Proceedings/2019/0606.pdf))|IJCAI 2019||GCN+DA||
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea, **recommended  to read**|
+|Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN+DA||
