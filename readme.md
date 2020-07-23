@@ -64,13 +64,12 @@
 |Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||graph for DA| connection with GCN |
 |Learning with Multiple Complementary Labels ([paper](https://arxiv.org/pdf/1912.12927.pdf))|ICML 2020||||
 |Self-supervised Label Augmentation via Input Transformations ([paper](https://proceedings.icml.cc/book/3568.pdf))|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|Unsupervised Transfer Learning for Spatiotemporal Predictive Networks ([paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-memory-icml20.pdf))|ICML 2020||||
 |Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life open compound transfer|**new trend**|
 |Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf))|CVPR 2020||DA in long-tailed data|**new trend**|
 |Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision ([paper](https://arxiv.org/abs/2004.07703))|CVPR 2020|[code](https://github.com/feipan664/IntraDA)|entropy adversarial based||
 |Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
-|Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020|||**new problem**|
-|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|||
+|Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020||privacy|**new problem**|
+|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|open set DA||
 |Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||self-supervised||
 |Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuiB.2513.pdf))| AAAI 2020 || GCN ||
 |AdaFilter: Adaptive Filter Fine-Tuning for Deep Transfer Learning ([paper](http://www.cs.utexas.edu/~grauman/papers/CVPR19_spottune.pdf))|AAAI 2020||gated output, fine-tune||
@@ -94,4 +93,6 @@
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019 best paper|||good idea|
 |Network Transfer Learning via Adversarial Domain Adaptation with Graph Convolution ([paper](https://arxiv.org/pdf/1909.01541.pdf))|TKDE 2019||GCN+DA||
 
-**Notice:** If you are interested in contributing to this repository, welcome to contact me by email wenzn9@gamil.com.
+
+
+**Notice:** If you are interested in contributing to this repository, welcome to contact me by email wenzn9@gmail.com
