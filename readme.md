@@ -7,9 +7,9 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 - [Trends of transfer learning](#trends-of-transfer-learning)
   * [New papers in arXiv](#new-papers-in-arXiv)
-  * [Excellent Scholars](#excellent-scholars)
-  * [Other githubs](#other-githubs)
   * [Useful websites](#useful-websites)
+  * [Other githubs](#other-githubs)
+  * [Excellent Scholars](#excellent-scholars)
   * [Trend papers](#trend-papers)
     * [Year 2020](#year-2020)
     * [Year 2019](#year-2019)
@@ -32,7 +32,6 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
 - [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 - [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
-- [Domain generalization](https://github.com/amber0309/Domain-generalization)
 
 ## Excellent scholars
 
