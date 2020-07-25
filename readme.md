@@ -8,8 +8,8 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 - [Trends of transfer learning](#trends-of-transfer-learning)
   * [New papers in arXiv](#new-papers-in-arXiv)
   * [Excellent Scholars](#excellent-scholars)
-  * [New Scholars](#new-scholars)
-  * [Other resources](#other-resources)
+  * [Other githubs](#other-githubs)
+  * [Useful websites](#useful-websites)
   * [Trend papers](#trend-papers)
     * [Year 2020](#year-2020)
     * [Year 2019](#year-2019)
@@ -22,39 +22,29 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 
 ## Excellent scholars
 
-- [Qiang Yang](http://home.cse.ust.hk/~qyang/)
-- [Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)
-- [龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)
-- [Boqing Gong Google](http://boqinggong.info/index.html)
-- [庄福振 中科院计算所](http://www.intsci.ac.cn/users/fzzhuang/index.html)
-- [李文 ETH](http://www.vision.ee.ethz.ch/~liwenw/)
-- [张宇 南方科技大学](https://yuzhanghk.github.io/)
-- [张磊 重庆大学](http://www.leizhang.tk/)
-- [Lixin Duan Amazon](http://www.lxduan.info/)
-- [Sheng Li  University of Georgia](http://cobweb.cs.uga.edu/~shengli/)
-- [Zhengming Ding Purdue University](http://allanding.net/)
-- [Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)
-- [Meina Kan ICT, CAS](http://vipl.ict.ac.cn/homepage/mnkan/index.html)
-- [Kate Aaenko Boston University](https://www.bu.edu/cs/profiles/kate-saenko/)
+|Scholar|Scholar|Scholar|
+| :--: | :--: | :--: |
+|[Qiang Yang](http://home.cse.ust.hk/~qyang/)|[Sinno Jialin Pan NTU](https://www.ntu.edu.sg/home/sinnopan/index.html)|[龙明盛 清华大学](http://ise.thss.tsinghua.edu.cn/~mlong/)|
+|[Boqing Gong Google](http://boqinggong.info/index.html)|[庄福振 中科院计算所](http://www.intsci.ac.cn/users/fzzhuang/index.html)|[李文 ETH](http://www.vision.ee.ethz.ch/~liwenw/)|
+|[张宇 南方科技大学](https://yuzhanghk.github.io/)|[张磊 重庆大学](http://www.leizhang.tk/)|[Lixin Duan Amazon](http://www.lxduan.info/)|
+|[Sheng Li  Univ. of Georgia](http://cobweb.cs.uga.edu/~shengli/)|[Zhengming Ding Purdue Univ.](http://allanding.net/)|[Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)|
+|[Meina Kan ICT, CAS](http://vipl.ict.ac.cn/homepage/mnkan/index.html)|[Kate Saenko Boston Univ.](http://ai.bu.edu/ksaenko.html)|[Jian Liang NUS](https://liangjian.xyz/)|
+|[Mingkui Tan SCUT](https://tanmingkui.github.io/)|[Kuniaki Saito Boston Univ.](http://cs-people.bu.edu/keisaito/)|[Jing Zhang Beihang Univ.](https://hellojing89.github.io/)|
+|[Jindong Wang Microsoft Research](http://jd92.wang/)|[Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)|[Hao Lu HUST](https://sites.google.com/site/poppinace/)|
 
-## New scholars
-
-- [Jian Liang NUS](https://liangjian.xyz/)
-- [Mingkui Tan SCUT](https://tanmingkui.github.io/)
-- [Kuniaki Saito Boston University](http://cs-people.bu.edu/keisaito/)
-- [Jing Zhang Beihang University](https://hellojing89.github.io/)
-- [Jindong Wang Microsoft Research](http://jd92.wang/)
-- [Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)
-- [Hao Lu HUST](https://sites.google.com/site/poppinace/)
-
-## Other resources
+## Other githubs
 
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
 - [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 - [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
 - [Domain generalization](https://github.com/amber0309/Domain-generalization)
+
+## Useful websites
+
+- [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
 - [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
+- [VALSE 2020](http://valser.org/2020/#/)
 
 ## Trend papers
 
@@ -101,7 +91,7 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
 
 ### Contact
-
+---
 - **Wen Zhang** - wenzn9 [at] gmail.com
 
 If you are interested in contributing to this repository, welcome to contact me by e-mail.
