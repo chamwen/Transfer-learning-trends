@@ -51,9 +51,9 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
-- [Unsupervised Domain Adaptation](https://github.com/barebell/DA)
-- [Domain generalization](https://github.com/amber0309/Domain-generalization)
+- [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 - [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
+- [Domain generalization](https://github.com/amber0309/Domain-generalization)
 - [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
 
 ## Trend papers
@@ -73,17 +73,17 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 |Self-supervised Label Augmentation via Input Transformations ([paper](https://proceedings.icml.cc/book/3568.pdf))|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
 |Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life open compound transfer|**new trend**|
 |Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf))|CVPR 2020||DA in long-tailed data|**new trend**|
-|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster|
+|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
 |Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020||privacy|**new problem**|
-|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|open set DA|
-|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||self-supervised|
-|Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuiB.2513.pdf))|AAAI 2020 ||GCN|
+|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|open set DA||
+|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||self-supervised||
+|Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuiB.2513.pdf))|AAAI 2020 ||GCN||
 |Discriminative Adversarial Domain Adaptation ([paper](https://arxiv.org/abs/1911.12036))|AAAI 2020|[code](https://github.com/huitangtang/DADA-AAAI2020)| discriminative information|**recommend**|
-|Multi-Source Distilling Domain Adaptation ([paper](https://arxiv.org/abs/1911.11554))|AAAI 2020||multi-source|
-|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA|
+|Multi-Source Distilling Domain Adaptation ([paper](https://arxiv.org/abs/1911.11554))|AAAI 2020||multi-source||
+|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
+|Visualizing Transfer Learning ([paper](https://arxiv.org/abs/2007.07628))|WHI 2020|[code](http://35.158.68.186/lucid.html)|visualize properties|interesting|
 |A survey on domain adaptation theory: Learning bounds and theoretical guarantees ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arXiv 2020||theory|**recommend**|
 |Do Adversarially Robust ImageNet Models Transfer Better? ([paper](https://arxiv.org/pdf/2007.08489.pdf))|arXiv 2020|[code](https://github.com/Microsoft/robust-models-transfer)|transferability|good question|
-|Visualizing Transfer Learning ([paper](https://arxiv.org/abs/2007.07628))|arXiv 2020|||interesting|
 
 ### Year 2019
 
@@ -100,5 +100,8 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||curriculum learning+DA||
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
 
----
-**Notice:** If you are interested in contributing to this repository, welcome to contact me by e-mail wenzn9@gmail.com
+### Contact
+
+- **Wen Zhang** - wenzn9 [at] gmail.com
+
+If you are interested in contributing to this repository, welcome to contact me by e-mail.
