@@ -24,7 +24,8 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 - [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
 - [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
-- [Vision and Learning Seminar (VALSE) 2020](http://valser.org/2020/#/)
+- [Vision and Learning Seminar (VALSE) 2020 19th Panel](http://valser.org/2020/#/)
+- [ICCV19: Domain Adaptation Oral Session Video](https://www.youtube.com/watch?v=9Sx2qWKGzlc)
 
 ## Other githubs
 
