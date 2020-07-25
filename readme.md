@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![](https://img.shields.io/github/last-commit/chamwen/Transfer-learning-trends)](https://github.com/chamwen/Transfer-learning-trends/commits/master)
 
-The resources focus on the latest papers in arXiv, the excellent scholars, some famous sources, and most importantly, the trends of transfer learning from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
+The resources focus on the latest papers in arXiv, some useful sources, the excellent scholars, and most importantly, the trends of transfer learning from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
 
 - [Trends of transfer learning](#trends-of-transfer-learning)
   * [New papers in arXiv](#new-papers-in-arXiv)
@@ -20,6 +20,20 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 - [Topic: domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)
 - [Topic: domain generalization](http://arxitics.com/search?q=domain%20generalization&sort=updated)
 
+## Useful websites
+
+- [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
+- [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
+- [Vision and Learning Seminar (VALSE) 2020](http://valser.org/2020/#/)
+
+## Other githubs
+
+- [Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
+- [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
+- [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
+- [Domain generalization](https://github.com/amber0309/Domain-generalization)
+
 ## Excellent scholars
 
 |Scholar|Scholar|Scholar|
@@ -31,20 +45,6 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 |[Meina Kan ICT, CAS](http://vipl.ict.ac.cn/homepage/mnkan/index.html)|[Kate Saenko Boston Univ.](http://ai.bu.edu/ksaenko.html)|[Jian Liang NUS](https://liangjian.xyz/)|
 |[Mingkui Tan SCUT](https://tanmingkui.github.io/)|[Kuniaki Saito Boston Univ.](http://cs-people.bu.edu/keisaito/)|[Jing Zhang Beihang Univ.](https://hellojing89.github.io/)|
 |[Jindong Wang Microsoft Research](http://jd92.wang/)|[Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)|[Hao Lu HUST](https://sites.google.com/site/poppinace/)|
-
-## Other githubs
-
-- [Transfer Learning](https://github.com/jindongwang/transferlearning)
-- [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
-- [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
-- [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
-- [Domain generalization](https://github.com/amber0309/Domain-generalization)
-
-## Useful websites
-
-- [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
-- [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
-- [VALSE 2020](http://valser.org/2020/#/)
 
 ## Trend papers
 
@@ -91,7 +91,7 @@ The resources focus on the latest papers in arXiv, the excellent scholars, some 
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
 
 ### Contact
----
+
 - **Wen Zhang** - wenzn9 [at] gmail.com
 
 If you are interested in contributing to this repository, welcome to contact me by e-mail.
