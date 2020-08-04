@@ -30,6 +30,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 ## Other githubs
 
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [THUML: Machine Learning Group @ THSS](https://github.com/thuml?page=1)
 - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation#distance-based-methods)
 - [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 - [Materials for transfer learning](https://github.com/dududuAA/Transfer-learning-materials)
