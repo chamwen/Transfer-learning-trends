@@ -26,6 +26,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 - [Paperswithcode (friendly for reproduction)](https://www.paperswithcode.com/task/transfer-learning/latest)
 - [VALSE 2020 Panel 迁移学习：他山之石，可以攻玉](https://b23.tv/JyX0z2)
 - [ICCV19: Domain Adaptation Oral Session Video](https://www.youtube.com/watch?v=9Sx2qWKGzlc)
+- [8th中国数据挖掘会议 迁移学习理论与算法](http://csee.hnu.edu.cn/ccdm2020/hyrc.html)
 
 ## Other githubs
 
