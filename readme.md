@@ -76,6 +76,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 |Visualizing Transfer Learning ([paper](https://arxiv.org/abs/2007.07628))|WHI 2020|[code](http://35.158.68.186/lucid.html)|visualize properties|interesting|
 |A survey on domain adaptation theory: Learning bounds and theoretical guarantees ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arXiv 2020||theory|**recommend**|
 |Do Adversarially Robust ImageNet Models Transfer Better? ([paper](https://arxiv.org/pdf/2007.08489.pdf))|arXiv 2020|[code](https://github.com/Microsoft/robust-models-transfer)|transferability|good question|
+|What is being transferred in transfer learning? ([paper](https://arxiv.org/pdf/2008.11687.pdf))|arXiv 2020||deep TL|interesting|
 
 ### Year 2019
 
