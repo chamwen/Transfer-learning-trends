@@ -46,7 +46,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 |[Sheng Li  Univ. of Georgia](http://cobweb.cs.uga.edu/~shengli/)|[Zhengming Ding Purdue Univ.](http://allanding.net/)|[Judy Hoffman Georgia Tech](https://www.cc.gatech.edu/~judy/)|
 |[Meina Kan ICT, CAS](http://vipl.ict.ac.cn/homepage/mnkan/index.html)|[Kate Saenko Boston Univ.](http://ai.bu.edu/ksaenko.html)|[Jian Liang NUS](https://liangjian.xyz/)|
 |[Mingkui Tan SCUT](https://tanmingkui.github.io/)|[Kuniaki Saito Boston Univ.](http://cs-people.bu.edu/keisaito/)|[Jing Zhang Beihang Univ.](https://hellojing89.github.io/)|
-|[Jindong Wang Microsoft Research](http://jd92.wang/)|[Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)|[Hao Lu HUST](https://sites.google.com/site/poppinace/)|
+|[Zirui Wang CMU](http://www.cs.cmu.edu/~ziruiw/)|[Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)|[Hao Lu HUST](https://sites.google.com/site/poppinace/)|
 
 ## Trend papers
 
@@ -91,6 +91,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 |Learning What and Where to Transfer ([paper](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf))|ICML 2019||meta-TL|**new trend**|
 |On Learning Invariant Representation for Domain Adaptation ([paper](http://proceedings.mlr.press/v97/zhao19a/zhao19a.pdf))|ICML 2019||theory||
 |Do better ImageNet models transfer better? ([paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html))|CVPR 2019||transferability|good question|
+|Characterizing and Avoiding Negative Transfer ([paper](https://arxiv.org/abs/1811.09751))|CVPR 2019||negative transfer||
 |Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||curriculum learning+DA||
 |Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
 
