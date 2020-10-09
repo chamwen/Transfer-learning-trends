@@ -52,8 +52,8 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 ### Year 2020
 
-|| Title                                                        | Conf./Journal | Code | Keywords | Benefit |
-| ----  | :--- | :--: | :--: | ---- | ---- |
+|| Title | Conf./Journal | Code | Keywords | Benefit |
+| ---- | :--- | :--: | :--: | ---- | ---- |
 |43|Universal Domain Adaptation through Self Supervision | NeurIPS 2020  | | self supervision | |
 |42|Transferable Calibration with Lower Bias and Variance in Domain Adaptation | NeurIPS 2020  | | bias and variance | |
 |41|Learning to Adapt to Evolving Domains | NeurIPS 2020  | | evolving TL | |
@@ -84,7 +84,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 |16|Continuously Indexed Domain Adaptation ([paper](https://proceedings.icml.cc/book/3462.pdf))|ICML 2020||domain index distribution|new direction|
 |15|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|Implicit alignment|**recommend**|
 |14|Self-supervised Label Augmentation via Input Transformations ([paper](https://proceedings.icml.cc/book/3568.pdf))|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|13|Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life open compound transfer|**new trend**|
+|13|Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life transfer|**new trend**|
 |12|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf))|CVPR 2020||DA in long-tailed data|**new trend**|
 |11|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
 |10|Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020||privacy|**new problem**|
@@ -101,7 +101,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 ### Year 2019
 
 || Title | Conf./Journal | Code | Keywords | Benefit |
-| ----  | :--: | :--: | :--: | ---- | ---- |
+| ---- | :--- | :--: | :--: | ---- | ---- |
 |11|Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning ([paper](https://papers.nips.cc/paper/8466-catastrophic-forgetting-meets-negative-transfer-batch-spectral-shrinkage-for-safe-transfer-learning))|NIPS 2019||negative and safe TL|**recommend**|
 |10|Transferable Normalization: Towards Improving Transferability of Deep Neural Networks ([paper](https://papers.nips.cc/paper/8470-transferable-normalization-towards-improving-transferability-of-deep-neural-networks))|NIPS 2019|[code](http://github.com/thuml/TransNorm)|new normalization||
 |9|On the Value of Target Data in Transfer Learning ([paper](https://papers.nips.cc/paper/9179-on-the-value-of-target-data-in-transfer-learning))|NIPS 2019||sampling costs|**recommend**|
