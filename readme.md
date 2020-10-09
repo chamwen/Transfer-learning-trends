@@ -52,8 +52,8 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 ### Year 2020
 
-|| Title | Conf./Journal | Code | Keywords | Benefit |
-| ----  | :--: | :--: | :--: | ---- | ---- |
+|| Title                                                        | Conf./Journal | Code | Keywords | Benefit |
+| ----  | :--- | :--: | :--: | ---- | ---- |
 |43|Universal Domain Adaptation through Self Supervision | NeurIPS 2020  | | self supervision | |
 |42|Transferable Calibration with Lower Bias and Variance in Domain Adaptation | NeurIPS 2020  | | bias and variance | |
 |41|Learning to Adapt to Evolving Domains | NeurIPS 2020  | | evolving TL | |
