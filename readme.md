@@ -52,48 +52,67 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 ### Year 2020
 
-| Title | Conf./Journal | Code | Keywords | Benefit |
-| ----  | :--: | :--: | :--: | ---- |
-|LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|negative transfer|
-|Label-Noise Robust Domain Adaptation ([paper](https://proceedings.icml.cc/book/3555.pdf))|ICML2020||label noise||
-|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend**|
-|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**new trend**|
-|Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||optimal transport| connection with GCN |
-|Understanding Self-Training for Gradual Domain Adaptation ([paper](https://proceedings.icml.cc/book/4289.pdf))|ICML 2020||gradual DA|**new trend**|
-|Continuously Indexed Domain Adaptation ([paper](https://proceedings.icml.cc/book/3462.pdf))|ICML 2020||domain index distribution|new direction|
-|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|Implicit alignment|**recommend**|
-|Self-supervised Label Augmentation via Input Transformations ([paper](https://proceedings.icml.cc/book/3568.pdf))|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
-|Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life open compound transfer|**new trend**|
-|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf))|CVPR 2020||DA in long-tailed data|**new trend**|
-|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
-|Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020||privacy|**new problem**|
-|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|open set DA||
-|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||self-supervised||
-|Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuiB.2513.pdf))|AAAI 2020 ||GCN||
-|Discriminative Adversarial Domain Adaptation ([paper](https://arxiv.org/abs/1911.12036))|AAAI 2020|[code](https://github.com/huitangtang/DADA-AAAI2020)| discriminative information|**recommend**|
-|Multi-Source Distilling Domain Adaptation ([paper](https://arxiv.org/abs/1911.11554))|AAAI 2020||multi-source||
-|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
-|Visualizing Transfer Learning ([paper](https://arxiv.org/abs/2007.07628))|WHI 2020|[code](http://35.158.68.186/lucid.html)|visualize properties|interesting|
-|A survey on domain adaptation theory: Learning bounds and theoretical guarantees ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arXiv 2020||theory|**recommend**|
-|Do Adversarially Robust ImageNet Models Transfer Better? ([paper](https://arxiv.org/pdf/2007.08489.pdf))|arXiv 2020|[code](https://github.com/Microsoft/robust-models-transfer)|transferability|good question|
-|What is being transferred in transfer learning? ([paper](https://arxiv.org/pdf/2008.11687.pdf))|arXiv 2020||deep TL|interesting|
-|Overcoming Negative Transfer: A Survey ([paper](https://arxiv.org/abs/2009.00909))|arXiv 2020||negative transfer||
+|| Title | Conf./Journal | Code | Keywords | Benefit |
+| ----  | :--: | :--: | :--: | ---- | ---- |
+|43|Universal Domain Adaptation through Self Supervision | NeurIPS 2020  | | self supervision | |
+|42|Transferable Calibration with Lower Bias and Variance in Domain Adaptation | NeurIPS 2020  | | bias and variance | |
+|41|Learning to Adapt to Evolving Domains | NeurIPS 2020  | | evolving TL | |
+|40|Faster Wasserstein Distance Estimation with the Sinkhorn Divergence | NeurIPS 2020  | | Wasserstein distance | |
+|39|Adapting Neural Architectures Between Domains | NeurIPS 2020  | | adapting NN | |
+|38|Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation | NeurIPS 2020  | | OT | |
+|37|On Adaptive Distance Estimation | NeurIPS 2020  | | distance | |
+|36|Hierarchical Granularity Transfer Learning | NeurIPS 2020  | | | |
+|35|CO-Optimal Transport | NeurIPS 2020  | | OT | |
+|34|A Combinatorial Perspective on Transfer Learning | NeurIPS 2020  | | | |
+|33|AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning | NeurIPS 2020 | | multi-task learning | |
+|32|Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift | NeurIPS 2020 | | label shift | |
+|31|On the Theory of Transfer Learning: The Importance of Task Diversity | NeurIPS 2020 | | task diversity | |
+|30|A Unified View of Label Shift Estimation | NeurIPS 2020 | | label shift | |
+|29|Transfer Learning via L1 Regularization | NeurIPS 2020 | | | |
+|28|Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge | NeurIPS 2020 | | knowledge transfer | |
+|27|An Imitation from Observation Approach to Sim-to-Real Transfer | NeurIPS 2020 | | sim-to-real transfer | |
+|26|Learning Fair and Transferable Representations | NeurIPS 2020 | | fair TL | |
+|25|Minimax Lower Bounds for Transfer Learning with Linear and One-hidden Layer Neural Networks | NeurIPS 2020 | | lower bounds | |
+|24|Do Adversarially Robust ImageNet Models Transfer Better? ([paper](https://arxiv.org/pdf/2007.08489.pdf))|NeurIPS 2020|[code](https://github.com/Microsoft/robust-models-transfer)|transferability|good question|
+|23|What is being transferred in transfer learning? ([paper](https://arxiv.org/pdf/2008.11687.pdf))|NeurIPS 2020||deep TL|interesting|
+|22|LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|negative transfer|
+|21|Label-Noise Robust Domain Adaptation ([paper](https://proceedings.icml.cc/book/3555.pdf))|ICML2020||label noise||
+|20|Estimating Generalization under Distribution Shifts via Domain-Invariant Representations ([paper](http://people.csail.mit.edu/stefje/papers/chuang_icml20.pdf))|ICML 2020|[code](https://github.com/chingyaoc/estimating-generalization)|new theory|**recommend**|
+|19|Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation ([paper](https://arxiv.org/abs/2002.08546))|ICML 2020|[code](https://github.com/tim-learn/SHOT)|source-free DA |**new trend**|
+|18|Graph Optimal Transport for Cross-Domain Alignment ([paper](https://arxiv.org/pdf/2006.14744v2.pdf))|ICML 2020||optimal transport| connection with GCN |
+|17|Understanding Self-Training for Gradual Domain Adaptation ([paper](https://proceedings.icml.cc/book/4289.pdf))|ICML 2020||gradual DA|**new trend**|
+|16|Continuously Indexed Domain Adaptation ([paper](https://proceedings.icml.cc/book/3462.pdf))|ICML 2020||domain index distribution|new direction|
+|15|Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation ([paper](https://arxiv.org/pdf/2006.04996.pdf))|ICML 2020|[code](https://github.com/xiangdal/implicit_alignment)|Implicit alignment|**recommend**|
+|14|Self-supervised Label Augmentation via Input Transformations ([paper](https://proceedings.icml.cc/book/3568.pdf))|ICML 2020|[code](https://github.com/hankook/SLA)|self-supervised|ideas can be used to many tasks|
+|13|Open Compound Domain Adaptation ([paper](https://liuziwei7.github.io/projects/CompoundDomain.html))|CVPR 2020|[code](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)|real life open compound transfer|**new trend**|
+|12|Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jamal_Rethinking_Class-Balanced_Methods_for_Long-Tailed_Visual_Recognition_From_a_Domain_CVPR_2020_paper.pdf))|CVPR 2020||DA in long-tailed data|**new trend**|
+|11|Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Unsupervised_Domain_Adaptation_via_Structurally_Regularized_Deep_Clustering_CVPR_2020_paper.pdf))|CVPR 2020|[code](https://github.com/huitangtang/SRDC-CVPR2020)|cluster||
+|10|Model Adaptation: Unsupervised Domain Adaptation without Source Data ([paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.pdf))|CVPR 2020||privacy|**new problem**|
+|9|Towards Inheritable Models for Open-Set Domain Adaptation ([paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html))|CVPR 2020|[code](https://sites.google.com/view/inheritune)|open set DA||
+|8|Extending and Analyzing Self-Supervised Learning Across Domains ([paper](https://arxiv.org/pdf/2004.11992.pdf))|ECCV 2020||self-supervised||
+|7|Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning ([paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuiB.2513.pdf))|AAAI 2020 ||GCN||
+|6|Discriminative Adversarial Domain Adaptation ([paper](https://arxiv.org/abs/1911.12036))|AAAI 2020|[code](https://github.com/huitangtang/DADA-AAAI2020)| discriminative information|**recommend**|
+|5|Multi-Source Distilling Domain Adaptation ([paper](https://arxiv.org/abs/1911.11554))|AAAI 2020||multi-source||
+|4|Unsupervised Domain Adaptive Graph Convolutional Networks ([paper](https://shiruipan.github.io/publication/www-2020-wu/))|WWW 2020||GCN+DA||
+|3|Visualizing Transfer Learning ([paper](https://arxiv.org/abs/2007.07628))|WHI 2020|[code](http://35.158.68.186/lucid.html)|visualize properties|interesting|
+|2|A survey on domain adaptation theory: Learning bounds and theoretical guarantees ([paper](https://arxiv.org/pdf/2004.11829.pdf))|arXiv 2020||theory|**recommend**|
+|1|Overcoming Negative Transfer: A Survey ([paper](https://arxiv.org/abs/2009.00909))|arXiv 2020||negative transfer||
 
 ### Year 2019
 
-| Title | Conf./Journal | Code | Keywords | Benefit |
-| ----  | :--: | :--: | :--: | ---- |
-|Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning ([paper](https://papers.nips.cc/paper/8466-catastrophic-forgetting-meets-negative-transfer-batch-spectral-shrinkage-for-safe-transfer-learning))|NIPS 2019||negative and safe TL|**recommend**|
-|Transferable Normalization: Towards Improving Transferability of Deep Neural Networks ([paper](https://papers.nips.cc/paper/8470-transferable-normalization-towards-improving-transferability-of-deep-neural-networks))|NIPS 2019|[code](http://github.com/thuml/TransNorm)|new normalization||
-|On the Value of Target Data in Transfer Learning ([paper](https://papers.nips.cc/paper/9179-on-the-value-of-target-data-in-transfer-learning))|NIPS 2019||sampling costs|**recommend**|
-|Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning ([paper](https://papers.nips.cc/paper/9438-learning-search-spaces-for-bayesian-optimization-another-view-of-hyperparameter-transfer-learning))|NIPS 2019||Bayesian optimization||
-|Learning classifiers for target domain with limited or no labels ([paper](http://proceedings.mlr.press/v97/zhu19d.html))|ICML 2019|[code](https://github.com/pengkaizhu/LDVA)|zero/few shot learning||
-|Learning What and Where to Transfer ([paper](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf))|ICML 2019||meta-TL|**new trend**|
-|On Learning Invariant Representation for Domain Adaptation ([paper](http://proceedings.mlr.press/v97/zhao19a/zhao19a.pdf))|ICML 2019||theory||
-|Do better ImageNet models transfer better? ([paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html))|CVPR 2019||transferability|good question|
-|Characterizing and Avoiding Negative Transfer ([paper](https://arxiv.org/abs/1811.09751))|CVPR 2019||negative transfer||
-|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||curriculum learning+DA||
-|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
+|| Title | Conf./Journal | Code | Keywords | Benefit |
+| ----  | :--: | :--: | :--: | ---- | ---- |
+|11|Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning ([paper](https://papers.nips.cc/paper/8466-catastrophic-forgetting-meets-negative-transfer-batch-spectral-shrinkage-for-safe-transfer-learning))|NIPS 2019||negative and safe TL|**recommend**|
+|10|Transferable Normalization: Towards Improving Transferability of Deep Neural Networks ([paper](https://papers.nips.cc/paper/8470-transferable-normalization-towards-improving-transferability-of-deep-neural-networks))|NIPS 2019|[code](http://github.com/thuml/TransNorm)|new normalization||
+|9|On the Value of Target Data in Transfer Learning ([paper](https://papers.nips.cc/paper/9179-on-the-value-of-target-data-in-transfer-learning))|NIPS 2019||sampling costs|**recommend**|
+|8|Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning ([paper](https://papers.nips.cc/paper/9438-learning-search-spaces-for-bayesian-optimization-another-view-of-hyperparameter-transfer-learning))|NIPS 2019||Bayesian optimization||
+|7|Learning classifiers for target domain with limited or no labels ([paper](http://proceedings.mlr.press/v97/zhu19d.html))|ICML 2019|[code](https://github.com/pengkaizhu/LDVA)|zero/few shot learning||
+|6|Learning What and Where to Transfer ([paper](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf))|ICML 2019||meta-TL|**new trend**|
+|5|On Learning Invariant Representation for Domain Adaptation ([paper](http://proceedings.mlr.press/v97/zhao19a/zhao19a.pdf))|ICML 2019||theory||
+|4|Do better ImageNet models transfer better? ([paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html))|CVPR 2019||transferability|good question|
+|3|Characterizing and Avoiding Negative Transfer ([paper](https://arxiv.org/abs/1811.09751))|CVPR 2019||negative transfer||
+|2|Transferable Curriculum for Weakly-Supervised Domain Adaptation ([paper](https://caozhangjie.github.io/files/TCL19.pdf))|AAAI 2019||curriculum learning+DA||
+|1|Parameter Transfer Unit for Deep Neural Networks ([paper](https://arxiv.org/abs/1804.08613))|PAKDD 2019||new unit|good idea|
 
 ### Contact
 
