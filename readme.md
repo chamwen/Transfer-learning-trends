@@ -47,6 +47,7 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 |[Meina Kan ICT, CAS](http://vipl.ict.ac.cn/homepage/mnkan/index.html)|[Kate Saenko Boston Univ.](http://ai.bu.edu/ksaenko.html)|[Jian Liang NUS](https://liangjian.xyz/)|
 |[Mingkui Tan SCUT](https://tanmingkui.github.io/)|[Kuniaki Saito Boston Univ.](http://cs-people.bu.edu/keisaito/)|[Jing Zhang Beihang Univ.](https://hellojing89.github.io/)|
 |[Zirui Wang CMU](http://www.cs.cmu.edu/~ziruiw/)|[Zhao Han CMU](https://www.cs.cmu.edu/~hzhao1/)|[Hao Lu HUST](https://sites.google.com/site/poppinace/)|
+|[Tatiana Tommasi ](http://www.tatianatommasi.com/)|||
 
 ## Trend papers
 
@@ -54,25 +55,24 @@ The resources focus on the latest papers in arXiv, some useful sources, the exce
 
 || Title | Conf./Journal | Code | Keywords | Benefit |
 | ---- | :--- | :--: | :--: | ---- | ---- |
-|43|Universal Domain Adaptation through Self Supervision | NeurIPS 2020  | | self supervision | |
-|42|Transferable Calibration with Lower Bias and Variance in Domain Adaptation | NeurIPS 2020  | | bias and variance | |
-|41|Learning to Adapt to Evolving Domains | NeurIPS 2020  | | evolving TL | |
-|40|Faster Wasserstein Distance Estimation with the Sinkhorn Divergence | NeurIPS 2020  | | Wasserstein distance | |
+|42|Universal Domain Adaptation through Self Supervision ([paper](https://arxiv.org/abs/2002.07953)) | NeurIPS 2020  | | self supervision | |
+|41|Transferable Calibration with Lower Bias and Variance in Domain Adaptation ([paper](https://arxiv.org/abs/2007.08259)) | NeurIPS 2020  | | bias and variance | |
+|40|Learning to Adapt to Evolving Domains | NeurIPS 2020  | | evolving TL | |
 |39|Adapting Neural Architectures Between Domains | NeurIPS 2020  | | adapting NN | |
-|38|Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation | NeurIPS 2020  | | OT | |
-|37|On Adaptive Distance Estimation | NeurIPS 2020  | | distance | |
+|38|Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation ([paper](https://arxiv.org/abs/2010.05862)) | NeurIPS 2020  | | OT | |
+|37|On Adaptive Distance Estimation ([paper](https://arxiv.org/abs/2010.11252)) | NeurIPS 2020  | | distance | |
 |36|Hierarchical Granularity Transfer Learning | NeurIPS 2020  | | | |
-|35|CO-Optimal Transport | NeurIPS 2020  | | OT | |
-|34|A Combinatorial Perspective on Transfer Learning | NeurIPS 2020  | | | |
-|33|AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning | NeurIPS 2020 | | multi-task learning | |
-|32|Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift | NeurIPS 2020 | | label shift | |
-|31|On the Theory of Transfer Learning: The Importance of Task Diversity | NeurIPS 2020 | | task diversity | |
-|30|A Unified View of Label Shift Estimation | NeurIPS 2020 | | label shift | |
-|29|Transfer Learning via L1 Regularization | NeurIPS 2020 | | | |
-|28|Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge | NeurIPS 2020 | | knowledge transfer | |
-|27|An Imitation from Observation Approach to Sim-to-Real Transfer | NeurIPS 2020 | | sim-to-real transfer | |
-|26|Learning Fair and Transferable Representations | NeurIPS 2020 | | fair TL | |
-|25|Minimax Lower Bounds for Transfer Learning with Linear and One-hidden Layer Neural Networks | NeurIPS 2020 | | lower bounds | |
+|35|CO-Optimal Transport ([paper](https://arxiv.org/abs/2002.03731)) | NeurIPS 2020  | | OT | |
+|34|A Combinatorial Perspective on Transfer Learning ([paper](https://arxiv.org/abs/2010.12268)) | NeurIPS 2020  | | | |
+|33|AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning ([paper](https://arxiv.org/abs/1911.12423)) | NeurIPS 2020 | | multi-task learning | |
+|32|Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift ([paper](https://arxiv.org/abs/2003.04475)) | NeurIPS 2020 | | label shift | |
+|31|On the Theory of Transfer Learning: The Importance of Task Diversity ([paper](https://arxiv.org/abs/2006.11650)) | NeurIPS 2020 | | task diversity | |
+|30|A Unified View of Label Shift Estimation ([paper](https://arxiv.org/abs/2003.07554)) | NeurIPS 2020 | | label shift | |
+|29|Transfer Learning via L1 Regularization ([paper](https://arxiv.org/abs/2006.14845)) | NeurIPS 2020 | | | |
+|28|Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge ([paper](https://arxiv.org/abs/2007.14513)) | NeurIPS 2020 | | knowledge transfer | |
+|27|An Imitation from Observation Approach to Sim-to-Real Transfer ([paper](https://arxiv.org/abs/2008.01594)) | NeurIPS 2020 | | sim-to-real transfer | |
+|26|Learning Fair and Transferable Representations ([paper](https://arxiv.org/abs/1906.10673)) | NeurIPS 2020 | | fair TL | |
+|25|Minimax Lower Bounds for Transfer Learning with Linear and One-hidden Layer Neural Networks ([paper](https://arxiv.org/abs/2006.10581)) | NeurIPS 2020 | | lower bounds | |
 |24|Do Adversarially Robust ImageNet Models Transfer Better? ([paper](https://arxiv.org/pdf/2007.08489.pdf))|NeurIPS 2020|[code](https://github.com/Microsoft/robust-models-transfer)|transferability|good question|
 |23|What is being transferred in transfer learning? ([paper](https://arxiv.org/pdf/2008.11687.pdf))|NeurIPS 2020||deep TL|interesting|
 |22|LEEP: A New Measure to Evaluate Transferability of Learned Representations ([paper](https://arxiv.org/pdf/2002.12462.pdf))|ICML 2020||new metric for transferability|negative transfer|
